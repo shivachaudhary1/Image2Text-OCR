@@ -16,17 +16,25 @@ Built with EasyOCR, NumPy, and Gradio.
 - 🖥️ **Simple Web Interface** - Upload images via file or webcam
 ---
 
-## Live Demo
+## ✅ Fixed Version
+
+---
+
+```markdown
+## 🚀 Live Demo
 
 **Option 1:** Try the hosted app on [HuggingFace](https://huggingface.co/spaces/yourusername/Image2Text)
 
 *Note: Free tier hosting — may take a moment to start if inactive.*
 
 **Option 2:** Run locally in 3 commands:
+
 ```bash
 git clone https://github.com/yourusername/Image2Text.git
+cd Image2Text
 pip install -r requirements.txt
-python app.py```
+python app.py
+```
 
 ---
 
@@ -38,10 +46,13 @@ python app.py```
 
 | Technology | Purpose |
 |------------|---------|
-| **EasyOCR** | OCR Engine (Text Recognition) |
-| **Gradio** | Web Interface |
-| **NumPy** | Numerical Operations |
-| **Pillow** | Image Handling |
+| EasyOCR | OCR Engine (Text Recognition) |
+| Gradio | Web Interface |
+| NumPy | Numerical Operations |
+| Pillow | Image Handling |
+
+---
+```
 
 ---
 
