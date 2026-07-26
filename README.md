@@ -2,7 +2,7 @@
 
 **An AI-powered OCR web application that extracts printed text from images, with experimental support for handwritten content. Supports Hindi and English languages.**
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-HuggingFace-FF4B4B?style=for-the-badge&logo=huggingface)](https://huggingface.co/spaces/yourusername/Image2Text)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-HuggingFace-FF4B4B?style=for-the-badge&logo=huggingface)](https://usernameisfound01-image2text-ocr.hf.space/?__theme=dark)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/shivachaudhary1/Image2Text-OCR)
 
 Built with EasyOCR, NumPy, and Gradio.
@@ -18,7 +18,7 @@ Built with EasyOCR, NumPy, and Gradio.
 
 ## 🚀 Live Demo
 
-**Option 1:** Try the hosted app on [HuggingFace](https://huggingface.co/spaces/yourusername/Image2Text)
+**Option 1:** Try the hosted app on [HuggingFace](https://usernameisfound01-image2text-ocr.hf.space/?__theme=dark)
 
 *Note: Free tier hosting — may take a moment to start if inactive.*
 
