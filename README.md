@@ -11,14 +11,22 @@ Built with EasyOCR, NumPy, and Gradio.
 ## ✨ Features
 
 - 📄 **Printed Text Extraction** - Extract text from documents, invoices, and screenshots
-- 🌐 **Multi-Language** - Supports Hindi (हिंदी) and English
+- 🌐 **Multi-Language** - Supports Hindi and English
 - ⚡ **Real-Time Processing** - Instant text extraction with processing time display
 - 🖥️ **Simple Web Interface** - Upload images via file or webcam
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
-Try it now: [Image2Text on HuggingFace](https://huggingface.co/spaces/yourusername/Image2Text)
+**Option 1:** Try the hosted app on [HuggingFace](https://huggingface.co/spaces/yourusername/Image2Text)
+
+*Note: Free tier hosting — may take a moment to start if inactive.*
+
+**Option 2:** Run locally in 3 commands:
+```bash
+git clone https://github.com/yourusername/Image2Text.git
+pip install -r requirements.txt
+python app.py
 
 ![App Screenshot](screenshot.png)
 
@@ -29,44 +37,9 @@ Try it now: [Image2Text on HuggingFace](https://huggingface.co/spaces/youruserna
 | Technology | Purpose |
 |------------|---------|
 | **EasyOCR** | OCR Engine (Text Recognition) |
-| **OpenCV** | Image Processing |
 | **Gradio** | Web Interface |
 | **NumPy** | Numerical Operations |
 | **Pillow** | Image Handling |
-
----
-## 📦 Installation
-
-### Prerequisites
-
-Before installing the project, ensure you have the following:
-
-- **Python 3.8 or higher**
-- **pip package manager**
-
-### Installation Steps
-
-Follow these steps to set up the project locally:
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/yourusername/Image2Text.git
-
-# Navigate to the project directory
-cd Image2Text
-
-# 2. Install required dependencies
-pip install -r requirements.txt
-
-# 3. Launch the application
-python app.py
-````
-
-Once the application starts, open your browser and visit:
-
-```
-http://127.0.0.1:7860
-```
 
 ---
 
