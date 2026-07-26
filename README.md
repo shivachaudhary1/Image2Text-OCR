@@ -3,7 +3,7 @@
 **An AI-powered OCR web application that extracts printed text from images, with experimental support for handwritten content. Supports Hindi and English languages.**
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-HuggingFace-FF4B4B?style=for-the-badge&logo=huggingface)](https://huggingface.co/spaces/yourusername/Image2Text)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/yourusername/Image2Text)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/shivachaudhary1/Image2Text-OCR)
 
 Built with EasyOCR, NumPy, and Gradio.
 ---
@@ -25,7 +25,7 @@ Built with EasyOCR, NumPy, and Gradio.
 **Option 2:** Run locally in 3 commands:
 
 ```bash
-git clone https://github.com/yourusername/Image2Text.git
+git clone https://github.com/shivachaudhary1/Image2Text-OCR.git
 cd Image2Text
 pip install -r requirements.txt
 python app.py
@@ -118,7 +118,7 @@ This project is licensed under the MIT License.
   </span>
 </h2>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github)](https://github.com/shivachaudhary1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
 
 </div>
