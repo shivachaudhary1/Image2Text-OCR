@@ -39,9 +39,6 @@ python app.py
 
 ![Screenshot 1](https://i.ibb.co/BHRFCG6f/Capture.png)
 ![Screenshot 2](https://i.ibb.co/1tKcLjB0/img2.png)
-![Screenshot 3](https://i.ibb.co/xtxZRM1D/img1.png)
-
-
 
 ---
 
