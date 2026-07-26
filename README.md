@@ -20,8 +20,10 @@ Built with EasyOCR, NumPy, and Gradio.
 
 **Option 1:** Try the hosted app on [HuggingFace](https://usernameisfound01-image2text-ocr.hf.space/?__theme=dark)
 
-> **Note:** This demo is hosted on Hugging Face Spaces with free-tier resources.  
-> The app may go into sleep mode after inactivity. When opened again, it may take a few moments to wake up and initialize before becoming available.
+> **Note:** This demo is hosted on Hugging Face Spaces with free-tier resources.
+
+* The app may go into sleep mode after inactivity. When opened again, it may take a few moments to wake up and initialize before becoming available.
+
 
 **Option 2:** Run locally in 3 commands:
 
