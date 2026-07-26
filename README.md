@@ -116,6 +116,7 @@ This project is licensed under the MIT License.
     Shiva Chaudhary 
   </span>
 </h2>
+</div>
 
 * <b><a href="https://github.com/shivachaudhary1"> GitHub</b>
 
