@@ -95,19 +95,6 @@ For improved OCR accuracy:
 
 ---
 
-## 📁 Project Structure
-
-```
-Image2Text/
-│
-├── app.py              # Main application file
-├── requirements.txt    # Project dependencies
-├── README.md           # Documentation
-└── examples/           # Sample images for testing
-```
-
----
-
 ## ⚠️ Limitations
 
 Although Image2Text provides accurate OCR results, some limitations may occur:
@@ -132,7 +119,8 @@ To contribute:
 
 ---
 
-📄 License
+## 📄 License
+
 This project is licensed under the MIT License.
 
 ---
@@ -146,7 +134,7 @@ LinkedIn: Your Profile
 
 ---
 
-##🙏 Credits
+## 🙏 Credits
 
 - [EasyOCR](https://github.com/JaidedAI/EasyOCR) — Amazing OCR library
 - [Gradio](https://github.com/gradio-app/gradio) — Web interface framework
