@@ -16,11 +16,6 @@ Built with EasyOCR, NumPy, and Gradio.
 - 🖥️ **Simple Web Interface** - Upload images via file or webcam
 ---
 
-## ✅ Fixed Version
-
----
-
-```markdown
 ## 🚀 Live Demo
 
 **Option 1:** Try the hosted app on [HuggingFace](https://huggingface.co/spaces/yourusername/Image2Text)
