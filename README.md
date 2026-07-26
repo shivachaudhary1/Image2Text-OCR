@@ -1,7 +1,8 @@
 # 📸 Image2Text
 
-An AI-powered OCR web application that extracts **printed and handwritten text** from images, supporting **Hindi and English** languages. Built with EasyOCR, OpenCV, and Gradio.
+**An AI-powered OCR web application that extracts printed text from images, with experimental support for handwritten content. Supports Hindi and English languages.**
 
+Built with EasyOCR, OpenCV, and Gradio.
 [![Live Demo](https://img.shields.io/badge/Live_Demo-HuggingFace-FF4B4B?style=for-the-badge&logo=huggingface)](https://huggingface.co/spaces/yourusername/Image2Text)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/yourusername/Image2Text)
 
