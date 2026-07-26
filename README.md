@@ -36,89 +36,149 @@ Try it now: [Image2Text on HuggingFace](https://huggingface.co/spaces/youruserna
 
 ---
 
+मैंने इसे एक ज़्यादा professional, clean और GitHub README-style Markdown format में rewrite कर दिया है:
+
+````markdown
 ## 📦 Installation
 
 ### Prerequisites
-- Python 3.8 or higher
-- pip package manager
 
-### Steps
+Before installing the project, ensure you have the following:
+
+- **Python 3.8 or higher**
+- **pip package manager**
+
+### Installation Steps
+
+Follow these steps to set up the project locally:
 
 ```bash
 # 1. Clone the repository
 git clone https://github.com/yourusername/Image2Text.git
+
+# Navigate to the project directory
 cd Image2Text
 
-# 2. Install dependencies
+# 2. Install required dependencies
 pip install -r requirements.txt
 
-# 3. Run the application
+# 3. Launch the application
 python app.py
-The app will open at http://127.0.0.1:7860
+````
 
-🎯 Usage
-Upload Image - Click upload or use webcam
+Once the application starts, open your browser and visit:
 
-View Results - Extracted text appears instantly
+```
+http://127.0.0.1:7860
+```
 
-Copy Text - Use the copy button to copy extracted text
+---
 
-Best Results Tips:
-Use clear, well-lit images
+## 🎯 Usage
 
-Avoid shadows and glare
+Using **Image2Text** is simple:
 
-Hold camera steady
+### 1. Upload Image
 
-Minimum 300 DPI recommended
+* Upload an image file or capture one using your webcam.
 
-📁 Project Structure
-text
+### 2. Extract Text
+
+* The application automatically detects and extracts text from the image.
+
+### 3. Copy Results
+
+* Use the copy button to quickly copy the extracted text.
+
+### 💡 Tips for Best Results
+
+For improved OCR accuracy:
+
+* Use clear and high-resolution images.
+* Ensure proper lighting conditions.
+* Avoid shadows, blur, and image glare.
+* Keep the camera steady while capturing images.
+* A minimum resolution of **300 DPI** is recommended.
+
+---
+
+## 📁 Project Structure
+
+```
 Image2Text/
-├── app.py              # Main application
-├── requirements.txt    # Dependencies
+│
+├── app.py              # Main application file
+├── requirements.txt    # Project dependencies
 ├── README.md           # Documentation
 └── examples/           # Sample images for testing
-⚠️ Limitations
-OCR is not 100% accurate, especially on blurry or low-quality images
+```
 
-Complex layouts may produce inconsistent results
+---
 
-Handwritten text accuracy depends on handwriting clarity
+## ⚠️ Limitations
 
-Always verify important extracted text manually
+Although Image2Text provides accurate OCR results, some limitations may occur:
 
-Future Improvements
-□ Add more languages (Gujarati, Marathi, etc.)
-□ PDF support
-□ Batch processing
-□ Image preprocessing options
-□ Confidence score per word
-□ Text translation feature
-🤝 Contributing
-Contributions are welcome! Feel free to:
+* OCR accuracy may decrease with blurry or low-quality images.
+* Complex layouts and multiple text regions may produce inconsistent results.
+* Handwritten text recognition depends on handwriting clarity.
+* Always verify critical extracted information manually.
 
-Fork the repository
+---
 
-Create a feature branch
+## 🚀 Future Improvements
 
-Submit a pull request
+Planned enhancements include:
 
-📄 License
-This project is licensed under the MIT License.
+* [ ] Support for additional languages (Gujarati, Marathi, etc.)
+* [ ] PDF document support
+* [ ] Batch image processing
+* [ ] Advanced image preprocessing options
+* [ ] Word-level confidence scoring
+* [ ] Integrated text translation feature
 
-👨‍💻 Author
-Your Name
+---
 
-GitHub: @yourusername
+## 🤝 Contributing
 
-LinkedIn: Your Profile
+Contributions are highly appreciated!
 
-🙏 Credits
-EasyOCR - Amazing OCR library
+To contribute:
 
-Gradio - Simple ML web interfaces
+1. Fork this repository.
+2. Create a new feature branch.
+3. Make your changes.
+4. Submit a pull request.
 
-OpenCV - Computer vision tools
+---
 
-<p align="center"> Made with ❤️ for the community </p> ```
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+## 👨‍💻 Author
+
+**Your Name**
+
+* GitHub: `@yourusername`
+* LinkedIn: `Your Profile`
+
+---
+
+## 🙏 Credits
+
+Special thanks to these amazing open-source projects:
+
+* **EasyOCR** — Powerful OCR library for text recognition
+* **Gradio** — Simple and interactive ML web interfaces
+* **OpenCV** — Computer vision and image processing tools
+
+---
+
+<p align="center">
+  Made with ❤️ for the community
+</p>
+```
+
