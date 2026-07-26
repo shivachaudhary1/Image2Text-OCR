@@ -104,11 +104,22 @@ This project is licensed under the MIT License.
 ---
 
 ## 👨‍💻 Author
-<b>Shiva Chaudhary</b>
+<div align="center">
 
-GitHub: @shivachaudhary1
+<h2>
+  <span style="
+    background: linear-gradient(90deg, #2563eb, #9333ea);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 800;
+  ">
+    Shiva Chaudhary 
+  </span>
+</h2>
 
-LinkedIn: Your Profile
+* <b><a href="https://github.com/shivachaudhary1"> GitHub</b>
+
+* <b><a href="https://github.com/shivachaudhary1"> LinkedIn</b> 
 
 ---
 
