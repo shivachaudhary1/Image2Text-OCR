@@ -47,9 +47,6 @@ python app.py
 | Pillow | Image Handling |
 
 ---
-```
-
----
 
 ## Usage
 
