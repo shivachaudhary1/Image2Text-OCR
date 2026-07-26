@@ -35,10 +35,6 @@ Try it now: [Image2Text on HuggingFace](https://huggingface.co/spaces/youruserna
 | **Pillow** | Image Handling |
 
 ---
-
-मैंने इसे एक ज़्यादा professional, clean और GitHub README-style Markdown format में rewrite कर दिया है:
-
-````markdown
 ## 📦 Installation
 
 ### Prerequisites
@@ -74,7 +70,7 @@ http://127.0.0.1:7860
 
 ---
 
-## 🎯 Usage
+## Usage
 
 Using **Image2Text** is simple:
 
@@ -95,10 +91,7 @@ Using **Image2Text** is simple:
 For improved OCR accuracy:
 
 * Use clear and high-resolution images.
-* Ensure proper lighting conditions.
 * Avoid shadows, blur, and image glare.
-* Keep the camera steady while capturing images.
-* A minimum resolution of **300 DPI** is recommended.
 
 ---
 
@@ -126,19 +119,6 @@ Although Image2Text provides accurate OCR results, some limitations may occur:
 
 ---
 
-## 🚀 Future Improvements
-
-Planned enhancements include:
-
-* [ ] Support for additional languages (Gujarati, Marathi, etc.)
-* [ ] PDF document support
-* [ ] Batch image processing
-* [ ] Advanced image preprocessing options
-* [ ] Word-level confidence scoring
-* [ ] Integrated text translation feature
-
----
-
 ## 🤝 Contributing
 
 Contributions are highly appreciated!
@@ -152,33 +132,25 @@ To contribute:
 
 ---
 
-## 📄 License
+📄 License
+This project is licensed under the MIT License.
 
-This project is licensed under the **MIT License**.
+👨‍💻 Author
+Your Name
 
----
+GitHub: @yourusername
 
-## 👨‍💻 Author
+LinkedIn: Your Profile
 
-**Your Name**
+🙏 Credits
+EasyOCR - Amazing OCR library
 
-* GitHub: `@yourusername`
-* LinkedIn: `Your Profile`
+Gradio - Simple ML web interfaces
 
----
-
-## 🙏 Credits
-
-Special thanks to these amazing open-source projects:
-
-* **EasyOCR** — Powerful OCR library for text recognition
-* **Gradio** — Simple and interactive ML web interfaces
-* **OpenCV** — Computer vision and image processing tools
+OpenCV - Computer vision tools
 
 ---
 
 <p align="center">
   Made with ❤️ for the community
 </p>
-```
-
