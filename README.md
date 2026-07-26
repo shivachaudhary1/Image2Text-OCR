@@ -135,22 +135,26 @@ To contribute:
 📄 License
 This project is licensed under the MIT License.
 
-👨‍💻 Author
-Your Name
+---
 
-GitHub: @yourusername
+## 👨‍💻 Author
+Shiva Chaudhary
+
+GitHub: @shivachaudhary1
 
 LinkedIn: Your Profile
 
-🙏 Credits
-EasyOCR - Amazing OCR library
+---
 
-Gradio - Simple ML web interfaces
+##🙏 Credits
 
-OpenCV - Computer vision tools
+- [EasyOCR](https://github.com/JaidedAI/EasyOCR) — Amazing OCR library
+- [Gradio](https://github.com/gradio-app/gradio) — Web interface framework
+- [NumPy](https://github.com/numpy/numpy) — Numerical operations and array handling
+- [Pillow](https://github.com/python-pillow/Pillow) — Image loading and processing
 
 ---
 
 <p align="center">
-  Made with ❤️ for the community
+  Made with ❤️ 
 </p>
