@@ -104,6 +104,7 @@ This project is licensed under the MIT License.
 ---
 
 ## 👨‍💻 Author
+
 <div align="center">
 
 <h2>
@@ -113,13 +114,14 @@ This project is licensed under the MIT License.
     -webkit-text-fill-color: transparent;
     font-weight: 800;
   ">
-    Shiva Chaudhary 
+    Shiva Chaudhary
   </span>
 </h2>
-</div>
 
-* <b>[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github)](https://github.com/yourusername)</b>
-* <b>[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)</b>
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
+
+</div>
 
 ---
 
