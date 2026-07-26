@@ -26,7 +26,9 @@ Built with EasyOCR, NumPy, and Gradio.
 ```bash
 git clone https://github.com/yourusername/Image2Text.git
 pip install -r requirements.txt
-python app.py
+python app.py```
+
+---
 
 ![App Screenshot](screenshot.png)
 
