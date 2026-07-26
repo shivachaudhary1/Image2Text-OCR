@@ -104,7 +104,7 @@ This project is licensed under the MIT License.
 ---
 
 ## 👨‍💻 Author
-Shiva Chaudhary
+<b>Shiva Chaudhary</b>
 
 GitHub: @shivachaudhary1
 
@@ -112,7 +112,7 @@ LinkedIn: Your Profile
 
 ---
 
-## 🙏 Credits
+## Built With
 
 - [EasyOCR](https://github.com/JaidedAI/EasyOCR) — Amazing OCR library
 - [Gradio](https://github.com/gradio-app/gradio) — Web interface framework
