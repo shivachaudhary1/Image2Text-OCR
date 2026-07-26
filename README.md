@@ -132,7 +132,3 @@ This project is licensed under the MIT License.
 - [Pillow](https://github.com/python-pillow/Pillow) — Image loading and processing
 
 ---
-
-<p align="center">
-  Made with ❤️ 
-</p>
